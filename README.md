@@ -64,7 +64,7 @@ Para visualizar o portfólio localmente:
     ```
 3.  **Abra o arquivo `index.html` em seu navegador preferido.**
 
-Você também pode acessá-lo online, caso já tenha feito o deploy (por exemplo, no GitHub Pages).
+Você também pode acessá-lo online atravez do link: https://bejewelled-lolly-5cf9b8.netlify.app/
 
 ## Contato
 
