@@ -524,7 +524,7 @@ main .sobre {
 
 .resume_generica .experiencia_content div {
     background-color: #222;
-    animation: ladoSection .5s ease-in-out forwards;
+    animation: ladoSecao .5s ease-in-out forwards;
     display: none;
     padding: 40px;
     position: relative;
