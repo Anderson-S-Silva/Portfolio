@@ -9,7 +9,7 @@ Portfólio pessoal desenvolvido em **React + Vite**, apresentando projetos, qual
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com)
 
-🔗 **[Ver site ao vivo](https://bejewelled-lolly-5cf9b8.netlify.app/)** · [LinkedIn](https://www.linkedin.com/in/anderson-silva-597b78167/) · [GitHub](https://github.com/Anderson-S-Silva)
+🔗 **[Ver site ao vivo](https://anderson-silva-dev.netlify.app/)** · [LinkedIn](https://www.linkedin.com/in/anderson-silva-597b78167/) · [GitHub](https://github.com/Anderson-S-Silva)
 
 </div>
 
