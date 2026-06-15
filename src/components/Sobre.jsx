@@ -12,7 +12,7 @@ export default function Sobre() {
       <div className="sobre-grid">
         <Revelar className="sobre-foto">
           <img
-            src="public\Img\FotoPerfil.png"
+            src="\Img\FotoPerfil.png"
             alt="Foto de Anderson Silva"
             loading="lazy"
           />
