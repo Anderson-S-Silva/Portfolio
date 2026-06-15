@@ -11,7 +11,7 @@ export const projetos = [
     id: 1,
     titulo: 'DevBurguer',
     descricao: 'Projeto de Landing page de hamburgueria com cardápio interativo e carrinho de pedidos.',
-    imagem: 'public/Img/DevBurguer.jpeg',
+    imagem: '/Img/DevBurguer.jpeg',
     categoria: 'front',
     tecnologias: ['HTML', 'CSS', 'JavaScript'],
     links: {
@@ -22,7 +22,7 @@ export const projetos = [
     id: 2,
     titulo: 'Doce Desejo',
     descricao: 'Site institucional para escola de confeitaria — projeto entregue a cliente real.',
-    imagem: 'public/Img/DoceDesejo.jpeg',
+    imagem: '/Img/DoceDesejo.jpeg',
     categoria: 'front',
     tecnologias: ['HTML', 'CSS', 'JavaScript'],
     links: {
@@ -33,7 +33,7 @@ export const projetos = [
     id: 3,
     titulo: 'Treinamento de Modelo de IA',
     descricao: 'Pipeline de treinamento de modelo de inteligência artificial para revisão de código.',
-    imagem: 'public/Img/RevisaoDeCodigo.jpeg',
+    imagem: '/Img/RevisaoDeCodigo.jpeg',
     categoria: 'back',
     tecnologias: ['Python', 'Machine Learning'],
     links: {
@@ -44,7 +44,7 @@ export const projetos = [
     id: 4,
     titulo: 'Migração de Banco de Dados',
     descricao: 'Rotina de migração de banco de dados utilizando web services da AWS.',
-    imagem: 'public/Img/BancodeDados.jpeg',
+    imagem: '/Img/BancodeDados.jpeg',
     categoria: 'back',
     tecnologias: ['SQL', 'AWS', 'Python'],
     links: {
@@ -55,7 +55,7 @@ export const projetos = [
     id: 5,
     titulo: 'Análise de Dados de Vendas',
     descricao: 'Análise exploratória de dados de vendas com limpeza, modelagem e visualização.',
-    imagem: 'public/Img/Exploratoria.jpeg',
+    imagem: '/Img/Exploratoria.jpeg',
     categoria: 'dados',
     tecnologias: ['Python', 'Pandas', 'Visualização'],
     links: {
